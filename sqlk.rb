@@ -1,9 +1,9 @@
 class Sqlk < Formula
   desc "A terminal-based PostgreSQL query execution and visualization tool with vim-like navigation."
   homepage "https://github.com/sethrollinsbah/sqlk"
-  url "https://github.com/sethrollinsbah/sqlk/releases/download/v0.1.4/sqlk-mac.tar.gz"
-  sha256 "e274b5d8748a8f1d3244b3e35a47326b4b3cf81382c0e791df39a8b3225361e1"
-  version "0.1.4"
+  url "https://github.com/sethrollinsbah/sqlk/releases/download/v0.1.5/sqlk-mac.tar.gz"
+  sha256 "039e49a413ed76d79c31ad9ad6f48f4b36251906499b83c28fac2a6160ed923a"
+  version "0.1.5"
 
   def install
     bin.install "sqlk"
